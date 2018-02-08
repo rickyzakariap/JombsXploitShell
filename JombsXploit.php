@@ -5,7 +5,7 @@
 <link href="http://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Jolly+Lodger" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Homenaje" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" href="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/16938707_252802741844401_133931016733557413_n.jpg?oh=b82cfe7b68bd8e3729ebac3375450e35&oe=5A2A4570" type="image/x-icon">
+<link href='https://github.com/fluidicon.png' rel='icon' type='image/x-icon'/>
 <meta name='author' content='Snoopy-Sec ID'>
 <meta charset="UTF-8">
 <style type="text/css">
