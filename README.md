@@ -1,3 +1,8 @@
-# JombsXploit-Shell
-JombsXploit Private Mini Shell By Snoopy<br>
-Recoded Shell From PenggilaCroot007 And Stupidc0de Family
+# JombsXploit Shell
+[![Version](https://img.shields.io/badge/JombsXploit_Shell-PHP-blue.svg)]()
+[![Stage](https://img.shields.io/badge/Based-PHP-blue.svg)]()
+
+JombsXploit Private Mini Shell SnoopySec
+
+## Greetz
+PenggilaCroot007 And Stupidc0de Family
